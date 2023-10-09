@@ -14,4 +14,4 @@ Iniciante entusiasta no mundo da programação 🚀 | Apaixonado por aprender e 
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=CertBR1p&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais))
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=CertBR1&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais))
