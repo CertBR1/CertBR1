@@ -1,6 +1,6 @@
 # Olá, eu sou Mateus
 
-Iniciante entusiasta no mundo da programação 🚀 | Apaixonado por aprender e resolver desafios com JavaScript e Node.js | Em busca de conhecimento e oportunidades para crescer como desenvolvedor | Aberto a colaborações e mentoria | Vamos conectar e construir juntos o futuro da tecnologia! #Programação #JavaScript #Nodejs #DesenvolvimentoWeb #AprendizadoConstante
+Iniciante entusiasta no mundo da programação 🚀 | Apaixonado por aprender e resolver desafios com JavaScript e Node.js | Em busca de conhecimento e oportunidades para crescer como desenvolvedor | Aberto a colaborações e mentoria | Vamos conectar e construir juntos o futuro da tecnologia! 
   </p>
 
 
