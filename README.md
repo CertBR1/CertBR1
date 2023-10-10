@@ -12,4 +12,4 @@ Iniciante entusiasta no mundo da programação 🚀 | Apaixonado por aprender e 
 
 [![My Skills](https://skillicons.dev/icons?i=java,javascript,html,nodejs,spring,vscode,postman&theme=light)](https://skillicons.dev)
 
-![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=CertBR1&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais))
+![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=CertBR1&theme=tokyonight&hide_border=true&custom_title=Linguagens%20%Principais)
